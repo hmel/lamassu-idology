@@ -1,0 +1,22 @@
+{
+  "name": "lamassu-idology",
+  "version": "0.0.0",
+  "description": "Plugin for IDology customer verification service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lamassu/lamassu-idology"
+  },
+  "keywords": [
+    "lamassu",
+    "bitcoin"
+  ],
+  "author": "Josh Harvey <josh@lamassu.is> (https://lamassu.is/)",
+  "license": "unlicense",
+  "bugs": {
+    "url": "https://github.com/lamassu/lamassu-idology/issues"
+  }
+}
