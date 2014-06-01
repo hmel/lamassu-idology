@@ -18,5 +18,7 @@
   "license": "unlicense",
   "bugs": {
     "url": "https://github.com/lamassu/lamassu-idology/issues"
+  },
+  "dependencies": {
   }
 }
