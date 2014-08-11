@@ -20,6 +20,8 @@
     "url": "https://github.com/lamassu/lamassu-idology/issues"
   },
   "dependencies": {
-    "jsonquest": "lamassu/jsonquest"
+    "nipple": "~2.5.5",
+    "faketoe": "~2.0.1",
+    "qs": "~1.2.1"
   }
 }
